@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: 'oke ở đây :)',
     title: 'Anh ko yeu em nứa anh ko muốn đi ăn với em nữa dung ko',
     desc: 'Tra loi di ',
-    btnYes: 'Anh thích nám mình đi ăn mì vịt nhe',
+    btnYes: 'Anh thích nám mình đi ăn mì vịt nha',
     btnNo: 'Đ thích đi',
     question: 'Em iu anh ma, toi minh di di',
     btnReply: 'Gửi cho bbi yêu dấu <3',
